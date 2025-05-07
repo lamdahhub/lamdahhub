@@ -1,6 +1,6 @@
 # Lamdah 🚀
 
-Welcome to Lamdah – a bilingual platform (English/Arabic) for digital transformation, AI agents, and workflow automation.
+Welcome to Lamdah – a platform for digital transformation, AI agents, and workflow automation.
 
 ## 🌟 Highlights
 - AI-powered tutorials and reusable code
